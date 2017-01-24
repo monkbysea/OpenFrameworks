@@ -1,0 +1,4 @@
+ofxGui
+ofxInstagram
+ofxJSON
+ofxThreadedImageLoader
